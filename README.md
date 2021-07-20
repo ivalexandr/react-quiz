@@ -2,7 +2,6 @@
 
 Учебный проект представляет собой веб-приложение создания и прохождения квизов.
 Основной стек: HTML, CSS, JavaScript, React.js, Redux.
-Проект написан полностью на классовых компонентах React.js.
 В качестве БД используется Realtime Database Firebase.
 Проект создан при помощи [Create-react-app](https://create-react-app.dev/ "Create-react-app")
 
